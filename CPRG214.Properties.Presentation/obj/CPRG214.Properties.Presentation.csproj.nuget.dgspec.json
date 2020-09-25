@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Presentation\\CPRG214.Properties.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Business\\CPRG214.Properties.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Business\\CPRG214.Properties.Business.csproj",
+        "projectName": "CPRG214.Properties.Business",
+        "projectPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Business\\CPRG214.Properties.Business.csproj",
+        "packagesPath": "C:\\Users\\mabservi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mabservi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Data\\CPRG214.Properties.Data.csproj": {
+                "projectPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Data\\CPRG214.Properties.Data.csproj"
+              },
+              "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Domain\\CPRG214.Properties.Domain.csproj": {
+                "projectPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Domain\\CPRG214.Properties.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Data\\CPRG214.Properties.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Data\\CPRG214.Properties.Data.csproj",
+        "projectName": "CPRG214.Properties.Data",
+        "projectPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Data\\CPRG214.Properties.Data.csproj",
+        "packagesPath": "C:\\Users\\mabservi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mabservi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Domain\\CPRG214.Properties.Domain.csproj": {
+                "projectPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Domain\\CPRG214.Properties.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Domain\\CPRG214.Properties.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Domain\\CPRG214.Properties.Domain.csproj",
+        "projectName": "CPRG214.Properties.Domain",
+        "projectPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Domain\\CPRG214.Properties.Domain.csproj",
+        "packagesPath": "C:\\Users\\mabservi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mabservi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Presentation\\CPRG214.Properties.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Presentation\\CPRG214.Properties.Presentation.csproj",
+        "projectName": "CPRG214.Properties.Presentation",
+        "projectPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Presentation\\CPRG214.Properties.Presentation.csproj",
+        "packagesPath": "C:\\Users\\mabservi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mabservi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Business\\CPRG214.Properties.Business.csproj": {
+                "projectPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Business\\CPRG214.Properties.Business.csproj"
+              },
+              "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Domain\\CPRG214.Properties.Domain.csproj": {
+                "projectPath": "C:\\Users\\Manpower\\Desktop\\ASP_NET class\\DAY 6_MVC\\CPRG214.Properties\\CPRG214.Properties.Domain\\CPRG214.Properties.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

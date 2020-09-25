@@ -1,0 +1,25 @@
+﻿@model CPRG214.Properties.Domain.Owner
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Add new Owner</h1>
+<form asp-action="Create">
+    <div class="row">
+        <div calss="col-md-6">
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add Owner" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<a asp-action="Index">Back to list</a>

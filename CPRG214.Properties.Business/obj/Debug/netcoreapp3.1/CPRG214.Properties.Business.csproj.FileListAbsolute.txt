@@ -1,0 +1,28 @@
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Business.deps.json
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Business.dll
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Business.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.dll
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.dll
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.AssemblyInfoInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.AssemblyInfo.cs
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.csproj.CopyComplete
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.dll
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Business.deps.json
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Business.dll
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Business.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.dll
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.dll
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.AssemblyInfoInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.AssemblyInfo.cs
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.csproj.CopyComplete
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.dll
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Business\obj\Debug\netcoreapp3.1\CPRG214.Properties.Business.pdb

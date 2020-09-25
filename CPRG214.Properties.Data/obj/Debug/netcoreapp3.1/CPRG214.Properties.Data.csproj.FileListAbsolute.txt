@@ -1,0 +1,30 @@
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.deps.json
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.dll
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.AssemblyInfoInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.AssemblyInfo.cs
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.runtimeconfig.json
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.runtimeconfig.dev.json
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.genruntimeconfig.cache
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.dll
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.csproj.CopyComplete
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.dll
+C:\Users\Manpower\Desktop\ASP_NET class\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.deps.json
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.runtimeconfig.json
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.runtimeconfig.dev.json
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.dll
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.dll
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.AssemblyInfoInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.AssemblyInfo.cs
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.csproj.CopyComplete
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.dll
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Data\obj\Debug\netcoreapp3.1\CPRG214.Properties.Data.genruntimeconfig.cache
