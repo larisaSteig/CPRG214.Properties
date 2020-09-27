@@ -16,7 +16,7 @@
                 var propertyTypeID = $("#uxPropertyTypes").val();
                 $.ajax({
                     method: 'GET',
-                    url: "/Rentals/Properties",
+                    url: "/Rentals/GetPropertiesByType",
                     data: { id: propertyTypeID }
                 }).done(function (result, statusText, xhdr) {
                     $("#uxDisplay").html(result)

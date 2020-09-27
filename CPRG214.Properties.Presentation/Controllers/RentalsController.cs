@@ -13,6 +13,11 @@ namespace CPRG214.Properties.Presentation.Controllers
 {
     public class RentalsController : Controller
     {
+
+        public IActionResult GetPropertiesByType(int id)
+        {
+            return ViewComponent("RentalsByType", id);
+        }
         public IActionResult Properties(int id)
         {
             // go to the rental manager, get all the rentals of this properties types
