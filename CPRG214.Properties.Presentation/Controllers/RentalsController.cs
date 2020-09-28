@@ -86,7 +86,15 @@ namespace CPRG214.Properties.Presentation.Controllers
             // create the collection of property types select list items
             var types = PropertyTypeManager.GetAsKEyValuePairs();
             var styles = new SelectList(types, "Value", "Text");
-            return styles;
+
+            var list = styles.ToList();
+            list.Insert(0, new SelectListItem
+            {
+                Text = "All Styles",
+                Value = "0"
+            });
+
+            return list;
         }
     }
 }
