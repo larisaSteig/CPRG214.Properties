@@ -155,3 +155,4 @@ C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Pro
 C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\RentalsByType\Default.cshtml.g.cs
 C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Manpower\Desktop\ASP_NET class\DAY 6_MVC\CPRG214.Properties\CPRG214.Properties.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
