@@ -4,11 +4,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using CPRG214.Properties.Business;
 using CPRG214.Properties.Domain;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CPRG214.Properties.Presentation.Controllers
 {
+    [Authorize]
     public class OwnerController : Controller
     {
         // GET: OwnerController
@@ -18,7 +20,7 @@ namespace CPRG214.Properties.Presentation.Controllers
             return View(owners);
         }
 
-
+        [Authorize(Roles = "Manager")]
         // GET: OwnerController/Create
         public ActionResult Create()
         {
